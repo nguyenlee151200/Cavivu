@@ -1,0 +1,27 @@
+html,
+body {
+  margin: 0%;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  padding: 0%;
+  overflow-x: hidden;
+  position: relative;
+}
+
+/* CSS Variables */
+
+:root {
+  --primary-color: #006837;
+  --secondary-color: #f5b10e;
+  --title-color: #01366a;
+  --text-white: #ffffff;
+  --text-black: #000000;
+  --text-gray: gray;
+  --fs-xs: 10px;
+  --fs-s: 12px;
+  --fs-base: 14px;
+  --fs-md: 16px;
+  --fs-lg: 18px;
+  --fs-xl: 20px;
+}
